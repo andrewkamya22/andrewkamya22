@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Andrew Kamya  
 
-<!--
-**andrewkamya22/andrewkamya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me  
+I am a Biostatistician and Statistical Programmer with a passion for analyzing biomedical data. My expertise lies in survival analysis, longitudinal modeling, machine learning and high-dimensional bioinformatics. I work extensively with **R and SAS**, applying statistical and computational methods to solve real-world research problems.  
 
-Here are some ideas to get you started:
+### 🔬 Research Interests  
+- Survival and event history analysis  
+- Bayesian modeling and machine learning in biostatistics  
+- Computational methods for biomarker discovery  
+- Statistical programming for clinical trials  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+- **📊 Longitudinal Toxicity Taxonomy:** Developing statistical models for cumulative toxicities in oncology  
+- **🎯 Cure Models in Survival Analysis:** Studying parametric and semiparametric approaches  
+- **🩺 Abdominal Aortic Aneurysm Prediction:** Investigating risk progression using longitudinal data  
+- **🍼 Breastfeeding Duration Analysis:** Applying survival models to maternal health data  
+- **📈 Sample Size for Cancer Trials:** Determining sample sizes for oncology clinical studies  
+
+## 🛠️ Skills  
+**Languages:** R, SAS, Python, SQL  
+**Statistical Methods:** Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Machine Learning  
+**Tools:** SAS/IML, Tidyverse, CDISC Standards (SDTM, AdaM)  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndrewKamya-blue?logo=linkedin)](https://www.linkedin.com/in/andrewkamya22/)  
+[![GitHub](https://img.shields.io/badge/GitHub-andrewkamya22-lightgrey?logo=github)](https://github.com/andrewkamya22)  
+
+🚀 Always open to collaborations in biostatistics, clinical research, computational biology!  
